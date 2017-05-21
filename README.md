@@ -1,10 +1,7 @@
-# CryptoBacktester_1.0
+# CryptoBacktester
 This is a backtesting platform to test trading strategies, originally written by litepresence on Tradewaves.net
 
 
-
-
-Version 1.0
 
 - Currently only supports historical data from poloniex.com
 - Runs on python3
