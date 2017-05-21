@@ -16,14 +16,14 @@ Email michaelhly@gmail.com for any questions.
 
 
 
-If you find this useful kindly donate BTC to:
+If you find this useful, kindly donate to 
 
-18C9sM95tTMEQtxGdVj5Y8SBAvwSbuy9g4 - ME (:
-
+BTC: 18C9sM95tTMEQtxGdVj5Y8SBAvwSbuy9g4 
 
 LTC: LePtkseGLgxZTKvKFvPBgspS5rEjxrkVHT
 
 ETH: 0x907a18ac81d6f52100e2166ff6d882f32b76ee2a
+
 
 
 
