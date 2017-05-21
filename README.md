@@ -8,7 +8,7 @@ Version 1.0
 
 - Currently only supports historical data from poloniex.com
 - Runs on python3
-- Dependencies: matplotlib, talib, numpy
+- Dependencies: matplotlib, talib, numpy, requests
 
 Email michaelhly@gmail.com for any questions.
 
