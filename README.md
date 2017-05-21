@@ -20,4 +20,10 @@ If you find this useful kindly donate BTC to:
 
 18C9sM95tTMEQtxGdVj5Y8SBAvwSbuy9g4 - ME (:
 
+
+LTC: LePtkseGLgxZTKvKFvPBgspS5rEjxrkVHT
+ETH: 0x907a18ac81d6f52100e2166ff6d882f32b76ee2a
+
+
+
 1Hu7mVg4GudEcnRLN94oWC9Umh4JohNp3F - litepresence, who probably already has many
