@@ -1,4 +1,4 @@
-# BacktestClient1.0
+# CryptoBacktester_1.0
 This is a backtesting platform to test trading strategies, originally written by litepresence on Tradewaves.net
 
 
