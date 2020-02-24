@@ -7,5 +7,5 @@ This is a backtesting platform to test trading strategies, originally written by
 
 You should expect something like the following,
 
-![Demo](https://imgur.com/a/D621R)
+![Demo](https://i.imgur.com/DFM6L5n.png)
 
